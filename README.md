@@ -19,8 +19,8 @@ e## <p align="center"> CLEOPATRA-MD WHATSAPP BOT
 **`𝗖𝗟𝗘𝗢𝗣𝗔𝗧𝗥𝗔 𝗠𝗗 𝗕𝗢𝗧`**
 
 ##  PAIRING CODE SCAN
+<a href ="https://dexter-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
-<a href ="https://cleopatra-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250></a>
 
 ## QR CODE SCAN
 
