@@ -20,7 +20,7 @@ e## <p align="center"> CLEOPATRA-MD WHATSAPP BOT
 
 ##  PAIRING CODE SCAN
 
-https://dexter-md.onrender.com/https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red
+<a href ="https://cleopatra-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250></a>
 
 ## QR CODE SCAN
 
