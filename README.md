@@ -15,9 +15,6 @@
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
-🌟 𝗦𝗛𝗔𝗡𝗨 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
-
-<a href="https://new-repo-hazel-three.vercel.app/"><img src="https://img.shields.io/badge/SHANU-WEB%20SITE-red" alt="SHANU WEB SITE" width="250"></a>
 
 **`𝗖𝗟𝗘𝗢𝗣𝗔𝗧𝗥𝗔 𝗠𝗗 𝗕𝗢𝗧`**
 
