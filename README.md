@@ -27,7 +27,7 @@ e## <p align="center"> CLEOPATRA-MD WHATSAPP BOT
 <a href="https://qr-dexter-md-b3cdc18409e4.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://dashboard.heroku.com/new?button-url=https://github.com/mrshameen/CLEOPATRA-MD)
+ [![Deploy on Heroku](https://dashboard.heroku.com/new?button-url=https://github.com/mrshameen/CLEOPATRA-MD/)
 
    </details>
 </P>
